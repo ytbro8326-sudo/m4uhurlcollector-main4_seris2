@@ -91,3 +91,9 @@ https://ww1.m4uhd.page/watch-movie-billion-dollar-boner-1960-300545.html | ERROR
 https://ww1.m4uhd.page/watch-movie-billion-dollar-boner-1960-300545.html | ERROR: No embeds found or extraction failed.
 https://ww1.m4uhd.page/watch-movie-flea-for-two-1955-300543.html | ERROR: Failed after 3 retries: HTTPSConnectionPool(host='ww1.m4uhd.page', port=443): Max retries exceeded with url: /watch-movie-flea-for-two-1955-300543.html (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Bad Gateway')))
 https://ww1.m4uhd.page/watch-movie-flea-for-two-1955-300543.html | ERROR: No embeds found or extraction failed.
+https://ww1.m4uhd.page/watch-tvseries-metal-evolution-2011-2014-262937.html | ERROR: No episode IDs found on series page.
+https://ww1.m4uhd.page/watch-tvseries-metal-evolution-2011-2014-262937.html | ERROR: Series extraction returned nothing.
+https://ww1.m4uhd.page/watch-tvseries-how-to-ruin-christmas-the-wedding-2020--252814.html | ERROR: No episode IDs found on series page.
+https://ww1.m4uhd.page/watch-tvseries-how-to-ruin-christmas-the-wedding-2020--252814.html | ERROR: Series extraction returned nothing.
+https://ww1.m4uhd.page/watch-tvseries-when-the-streetlights-go-on-2020-262936.html | ERROR: No episode IDs found on series page.
+https://ww1.m4uhd.page/watch-tvseries-when-the-streetlights-go-on-2020-262936.html | ERROR: Series extraction returned nothing.
